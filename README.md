@@ -41,3 +41,19 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 *   Terminar de adaptar pago Stripe SCA #premium
 *   Importar las suscripciones del sistema antiguo al de Cashier #premium
 *   Preparar webhook para el chat de tripetto #lsn
+
+---
+
+**Fecha**: 13/01/2021 
+
+**Humor**: 😐
+
+**Hitos conseguidos**:
+
+*   Recorte de tiempos brutal con \<picture> #cliente
+*   El Señor Chinchilla ha vuelto
+
+**Próximos hitos**
+
+*   Terminar de adaptar pago Stripe SCA (again!) #premium
+*   Fijar fechas directos Febrero #premium
