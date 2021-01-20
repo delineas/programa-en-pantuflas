@@ -57,3 +57,22 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 *   Terminar de adaptar pago Stripe SCA (again!) #premium
 *   Fijar fechas directos Febrero #premium
+
+---
+
+**Fecha**: 19/01/2021 
+
+**Humor**: :grinning:
+
+**Hitos conseguidos**:
+
+*   Equal Heights funciona! #cliente
+*   Terminar de adaptar pago Stripe SCA (again!) #premium
+*   Fijadas fechas directos Febrero #premium
+*   Lanzada la Beca Malandriner #premium
+*   El Señor Chinchilla ha vuelto
+
+**Próximos hitos**
+
+*   Poner en producción el pago Stripe SCA (again!) #premium
+*   Terminar los tres vídeos de Vue3 avanzado #premium
