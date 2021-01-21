@@ -1,5 +1,9 @@
 # programa-en-pantuflas
 
+## Insignias
+
+![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png)
+
 ## **Tu diario empieza aquí**
 
 Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas/reto-programa-en-pantuflas).
