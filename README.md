@@ -91,22 +91,6 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 
 ---
 
-**Fecha**: 13/01/2021 
-
-**Humor**: 😐
-
-**Hitos conseguidos**:
-
-*   Recorte de tiempos brutal con \<picture> #cliente
-*   El Señor Chinchilla ha vuelto
-
-**Próximos hitos**
-
-*   Terminar de adaptar pago Stripe SCA (again!) #premium
-*   Fijar fechas directos Febrero #premium
-
----
-
 **Fecha**: 24/01/2021 
 
 **Humor**: :grinning:
